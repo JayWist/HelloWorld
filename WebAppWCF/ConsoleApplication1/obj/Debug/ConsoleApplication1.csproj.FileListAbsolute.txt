@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\WebAppWCF\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\WebAppWCF\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\acer\documents\visual studio 2015\Projects\WebAppWCF\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\acer\documents\visual studio 2015\Projects\WebAppWCF\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\acer\documents\visual studio 2015\Projects\WebAppWCF\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Acer\documents\visual studio 2015\Projects\WebAppWCF\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
